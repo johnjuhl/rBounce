@@ -1,0 +1,6 @@
+author: TehRainbowGuy
+database: false
+main: me.rainbow.rbounce.Core
+name: rBounce
+startup: postworld
+version: '0.0'
