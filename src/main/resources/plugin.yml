@@ -3,4 +3,4 @@ database: false
 main: me.rainbow.rbounce.Core
 name: rBounce
 startup: postworld
-version: '0.0'
+version: '0.1'
